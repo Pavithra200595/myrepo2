@@ -7,5 +7,6 @@ class arithmetic
         System.out.println("addition of "+a+" and "+b+" is: " +(a+b));
         System.out.println("new line added");
         System.out.println("subraction of "+a+" and "+b+" is: " +(a-b));
+        System.out.println("multiplication of "+a+" and "+b+" is: " +(a*b));
     }
 }
